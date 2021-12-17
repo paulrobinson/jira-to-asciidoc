@@ -20,6 +20,8 @@ Which renders like this:
 
 You must install JBang which can be (easily) obtained by following the instructions on  https://www.jbang.dev/.
 
+You will need to create a JIRA personal access token. This option is available from the your Profile area in JIRA. This is the link used for the issues.redhat.com JIRA server to get to that page: https://issues.redhat.com/secure/ViewProfile.jspa?selectedTab=com.atlassian.pats.pats-plugin:jira-user-personal-access-tokens
+
 
 ## Usage
 Run the script as follows:
