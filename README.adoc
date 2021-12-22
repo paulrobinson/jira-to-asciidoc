@@ -1,6 +1,6 @@
 # JIRA to AsciiDoc Exporter
 
-Create AsciiDoc tables from a JIRA query
+Create AsciiDoc lists from a JIRA query
 
 ## Example Output
 The script produces AsciiDoc like the following:
